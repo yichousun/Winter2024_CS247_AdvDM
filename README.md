@@ -69,7 +69,7 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 7 | 2/19 | **Presidents’ Day holiday (No Class)** | -------- | ------ | ------ | ------ |
 | Week 7 | 2/21 | Midterm (in class)|  | ------ | ------ | ------ |
 | Week 8 | 2/26 | Graph: Graph Neural Networks (slides as above)| <ul><li>Kipf & Welling, Semi-Supervised Classification with Graph Convolutional Networks, ICLR 2017</li><li>Tutorial: http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part2-gnns.pdf</li><li>Tutorial: http://tkipf.github.io/misc/SlidesCambridge.pdf</li></ul> | ------ | HW5 Due; HW6 Out  | ------ |
-| Week 8 | 2/28 | RS: Collaborative Filtering, Matrix Factorization, and BPR [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/10Recommendation_MF.pdf) | <ul><li>[Rendle et al., BPR: Bayesian Personalized Ranking from Implicit Feedback, UAI 2009](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)</li></ul>  | ------ | HW5 Due; HW6 Out | ------ |
+| Week 8 | 2/28 | RS: Collaborative Filtering, Matrix Factorization, and BPR [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/10Recommendation_MF.pdf) | <ul><li>[Rendle et al., BPR: Bayesian Personalized Ranking from Implicit Feedback, UAI 2009](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)</li></ul>  | ------ | ------ | ------ |
 | Week 9 | 3/4 | RS: Factorization Machine and Neural Collaborative Filtering | -------- | ------ | HW6 Due | ------ |
 | Week 9 | 3/6 | RS: Recommendation from Graph Perspective [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2022Winter_CS247/Slides/11Recommendation_Network.pdf) | -------- | ------ | ------ | ------ |
 | Week 10 | 3/11 | Project Presentation | -------- | ------ | ------ | ------ |
