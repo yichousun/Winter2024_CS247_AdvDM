@@ -28,7 +28,7 @@ This course introduces concepts, algorithms, and techniques of data mining on di
 
 ## Grading
 -	Homework: 40%
--	Course project: 35%
+-	Course project: 30%
 -	Exam: 25%
 -	Participation: 5%
 
